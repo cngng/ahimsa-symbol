@@ -1,5 +1,6 @@
 # ahimsa-symbol
-Ahimsa symbol image. CC BY-SA 2.0
+Ahimsa symbol image.
+
 remix from public domain image([1]).
 
 ## license
